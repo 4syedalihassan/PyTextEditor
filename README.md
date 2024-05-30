@@ -1,8 +1,8 @@
-#Basic Text Editor
+# Basic Text Editor
 
 A lightweight and user-friendly text editor built with Python's Tkinter library. This application provides basic text editing functionalities, making it suitable for quick edits and note-taking.
 
-##Features
+## Features
 - **Create New Files**: Start a new document from scratch.
 - **Open Existing Files**: Open and edit text files from your computer.
 - **Save Files**: Save your current document to a file.
@@ -14,7 +14,7 @@ A lightweight and user-friendly text editor built with Python's Tkinter library.
 - **Font Size**: Customize the font size of the text in the editor.
 - **Status Bar**: Real-time display of character and word count.
 
-##Installation
+## Installation
 **Clone the repository**:
 
 ```bash
@@ -31,7 +31,7 @@ Ensure you have Python installed (version 3.6 or higher).
 ```
 python text_editor.py
 ```
-##Usage
+## Usage
 - **New**: Start a new text document.
 - **Open**: Open an existing .txt file.
 - **Save**: Save the current document.
@@ -45,14 +45,14 @@ python text_editor.py
 - **Undo/Redo**: Undo or redo your last actions.
 - **Font Size**: Change the size of the text font.
 
-##Contributing
+## Contributing
 
 Contributions are welcome! Please fork this repository and submit pull requests for any enhancements or bug fixes.
 
-##License
+## License
 
 This project is licensed under the MIT License. See the LICENSE file for details.
 
-##Acknowledgements
+## Acknowledgements
 
 This project uses the Tkinter library, which is a part of the Python Standard Library, for its graphical user interface.
