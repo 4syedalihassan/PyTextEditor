@@ -51,8 +51,6 @@ Contributions are welcome! Please fork this repository and submit pull requests 
 
 ## License
 
-This project is licensed under the MIT License. See the LICENSE file for details.
-
 ## Acknowledgements
 
 This project uses the Tkinter library, which is a part of the Python Standard Library, for its graphical user interface.
