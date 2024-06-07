@@ -49,8 +49,6 @@ python text_editor.py
 
 Contributions are welcome! Please fork this repository and submit pull requests for any enhancements or bug fixes.
 
-## License
-
 ## Acknowledgements
 
 This project uses the Tkinter library, which is a part of the Python Standard Library, for its graphical user interface.
